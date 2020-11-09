@@ -1,0 +1,1 @@
+Jogo da Memoria desenvolvido em JavaScript, HTML e CSS. Realizado através da Digital Innovation One. Ministrado por Gabriela Pinheiro.
